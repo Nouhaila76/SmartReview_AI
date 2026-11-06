@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+nltk
+matplotlib
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+safetensors
